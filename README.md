@@ -1,12 +1,5 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Código de um exercício de aula onde a ideia é fazer um cinema mudando o preço conforme as opções da tela utilizando Watch e React-Hook-Form 
+A ideia é que o filme do Karate Kid é 3D e vale 15 reais, e os outros são 12. 
+O valor é somado com o valor do filme + os ingressos e o tipo da pipoca, onde a Grande é 10 e a Família é 25 
+Layout do Exercício pré pronto, apenas implementei o código e as funcionalidades.
